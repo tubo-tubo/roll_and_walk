@@ -1,0 +1,267 @@
+# depslib dependency file v1.0
+1215614570 source:c:\ode-0.12\myprog\template\template.cpp
+	<ode/ode.h>
+	<drawstuff/drawstuff.h>
+
+1475192636 c:\ode-0.12\include\ode\ode.h
+	<ode/odeconfig.h>
+	<ode/compatibility.h>
+	<ode/common.h>
+	<ode/odeinit.h>
+	<ode/contact.h>
+	<ode/error.h>
+	<ode/memory.h>
+	<ode/odemath.h>
+	<ode/matrix.h>
+	<ode/timer.h>
+	<ode/rotation.h>
+	<ode/mass.h>
+	<ode/misc.h>
+	<ode/objects.h>
+	<ode/odecpp.h>
+	<ode/collision_space.h>
+	<ode/collision.h>
+	<ode/odecpp_collision.h>
+	<ode/export-dif.h>
+
+1475192636 c:\ode-0.12\include\ode\odeconfig.h
+	<stddef.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<string.h>
+	<float.h>
+
+1475192630 c:\ode-0.12\include\ode\compatibility.h
+
+1475192630 c:\ode-0.12\include\ode\common.h
+	<ode/odeconfig.h>
+	<ode/error.h>
+	<math.h>
+
+1475192630 c:\ode-0.12\include\ode\error.h
+	<ode/odeconfig.h>
+
+1475192638 c:\ode-0.12\include\ode\odeinit.h
+	<ode/common.h>
+
+1475192630 c:\ode-0.12\include\ode\contact.h
+	<ode/common.h>
+
+1475192632 c:\ode-0.12\include\ode\memory.h
+	<ode/odeconfig.h>
+
+1475192638 c:\ode-0.12\include\ode\odemath.h
+	<ode/common.h>
+	<ode/odemath_legacy.h>
+
+1475192638 c:\ode-0.12\include\ode\odemath_legacy.h
+
+1475192632 c:\ode-0.12\include\ode\matrix.h
+	<ode/common.h>
+
+1475192638 c:\ode-0.12\include\ode\timer.h
+	<ode/odeconfig.h>
+
+1475192638 c:\ode-0.12\include\ode\rotation.h
+	<ode/common.h>
+	<ode/compatibility.h>
+
+1475192632 c:\ode-0.12\include\ode\mass.h
+	<ode/common.h>
+
+1475192634 c:\ode-0.12\include\ode\misc.h
+	<ode/common.h>
+
+1475192636 c:\ode-0.12\include\ode\objects.h
+	<ode/common.h>
+	<ode/mass.h>
+	<ode/contact.h>
+
+1475192638 c:\ode-0.12\include\ode\odecpp.h
+
+1475192630 c:\ode-0.12\include\ode\collision_space.h
+	<ode/common.h>
+
+1475192628 c:\ode-0.12\include\ode\collision.h
+	<ode/common.h>
+	<ode/collision_space.h>
+	<ode/contact.h>
+	<ode/odeinit.h>
+	"collision_trimesh.h"
+
+1475192630 c:\ode-0.12\include\ode\collision_trimesh.h
+
+1475192638 c:\ode-0.12\include\ode\odecpp_collision.h
+
+1475192630 c:\ode-0.12\include\ode\export-dif.h
+	<ode/common.h>
+
+1206109006 c:\ode-0.12\include\drawstuff\drawstuff.h
+	<drawstuff/version.h>
+
+1025048780 c:\ode-0.12\include\drawstuff\version.h
+
+1162561416 source:c:\ode-0.12\drawstuff\src\resources.rc
+	"resource.h"
+	"winresrc.h"
+
+989342312 c:\ode-0.12\drawstuff\src\resource.h
+
+1473393861 source:c:\ode-0.12\kenkyu\mdl1\main.cpp
+	<ode/ode.h>
+	<drawstuff/drawstuff.h>
+	<lib/setdraw.cpp>
+
+1473397955 c:\ode-0.12\kenkyu\mdl1\lib\makebody.cpp
+	"variable.h"
+
+1473387116 c:\ode-0.12\kenkyu\mdl1\lib\variable.h
+
+1473399686 c:\ode-0.12\kenkyu\mdl1\lib\setdraw.cpp
+	"variable.h"
+	"control.cpp"
+	"drawbody.cpp"
+
+1473304107 c:\ode-0.12\kenkyu\mdl1\lib\control.cpp
+	"variable.h"
+	"pcontrol.cpp"
+	"kinematics.cpp"
+
+1469610349 c:\ode-0.12\kenkyu\mdl1\lib\drawbody.cpp
+	"variable.h"
+	"makebody.cpp"
+
+1473389248 c:\ode-0.12\kenkyu\mdl1\lib\pcontrol.cpp
+	"variable.h"
+	<cmath>
+
+1473297461 c:\ode-0.12\kenkyu\mdl1\lib\kinematics.cpp
+	<cmath>
+	"variable.h"
+
+1477550279 source:c:\ode-0.12\kenkyu\mdl2\main.cpp
+	<drawstuff/drawstuff.h>
+	"lib/new/setdraw.cpp"
+
+1473733221 c:\ode-0.12\kenkyu\mdl2\lib\setdraw.cpp
+	"variable.h"
+	"control.cpp"
+	"drawbody.cpp"
+
+1475827676 c:\ode-0.12\kenkyu\mdl2\lib\variable.h
+
+1473304107 c:\ode-0.12\kenkyu\mdl2\lib\control.cpp
+	"variable.h"
+	"pcontrol.cpp"
+	"kinematics.cpp"
+
+1473389248 c:\ode-0.12\kenkyu\mdl2\lib\pcontrol.cpp
+	"variable.h"
+	<cmath>
+
+1473297461 c:\ode-0.12\kenkyu\mdl2\lib\kinematics.cpp
+	<cmath>
+	"variable.h"
+
+1469610349 c:\ode-0.12\kenkyu\mdl2\lib\drawbody.cpp
+	"variable.h"
+	"makebody.cpp"
+
+1475827829 c:\ode-0.12\kenkyu\mdl2\lib\makebody.cpp
+	"variable.h"
+
+1475128963 c:\ode-0.12\kenkyu\mdl2\lib\createbody.h
+
+1475128963 c:\ode-0.12\kenkyu\mdl2\lib\new\createbody.h
+
+1475823734 source:c:\ode-0.12\src\control.cpp
+	"control.h"
+	<cmath>
+	<ode/ode.h>
+
+1475823723 c:\ode-0.12\include\control.h
+
+1475192678 source:c:\ode-0.12\src\create.cpp
+	"create.h"
+
+1475192626 c:\ode-0.12\include\create.h
+	<ode/ode.h>
+	<drawstuff/drawstuff.h>
+
+1477558262 c:\ode-0.12\kenkyu\mdl2\lib\new\setdraw.cpp
+	"variable.h"
+	"control.cpp"
+	"makebody.cpp"
+
+1477558305 c:\ode-0.12\kenkyu\mdl2\lib\new\variable.h
+	<ode/ode.h>
+
+1477558244 c:\ode-0.12\kenkyu\mdl2\lib\new\control.cpp
+	"variable.h"
+	<cmath>
+
+1473297461 c:\ode-0.12\kenkyu\mdl2\lib\new\kinematics.cpp
+	<cmath>
+	"variable.h"
+
+1477557781 c:\ode-0.12\kenkyu\mdl2\lib\new\makebody.cpp
+	"variable.h"
+
+1477467335 c:\ode-0.12\kenkyu\mdl2\lib\new\kinematics.h
+	<cmath>
+
+1485756028 source:c:\ode-0.12\kenkyu\mdl3\main.cpp
+	<drawstuff/drawstuff.h>
+	<stdio.h>
+	"control.h"
+	"makebody.h"
+
+1482307728 c:\ode-0.12\kenkyu\mdl3\lib\new\setdraw.cpp
+	"variable.h"
+	"control.h"
+	"makebody.cpp"
+
+1482311884 c:\ode-0.12\kenkyu\mdl3\lib\new\variable.h
+	<ode/ode.h>
+
+1481260407 c:\ode-0.12\kenkyu\mdl3\lib\new\control.cpp
+	"variable.h"
+	"kinematics.h"
+
+1482308779 c:\ode-0.12\kenkyu\mdl3\lib\new\makebody.cpp
+	"variable.h"
+
+1481261982 c:\ode-0.12\kenkyu\mdl3\lib\new\kinematics.h
+	<cmath>
+
+1482311240 c:\ode-0.12\kenkyu\mdl3\lib\new\control.h
+	<cmath>
+	"variable.h"
+
+1485754208 c:\ode-0.12\kenkyu\mdl3\control.h
+	"variable.h"
+
+1485745896 c:\ode-0.12\kenkyu\mdl3\variable.h
+	<ode/ode.h>
+
+1485745004 c:\ode-0.12\kenkyu\mdl3\makebody.h
+	"variable.h"
+
+1486372140 source:c:\ode-0.12\kenkyu\mdl4\main.cpp
+	<drawstuff/drawstuff.h>
+	<stdio.h>
+	"control.h"
+	"makebody.h"
+
+1486624163 c:\ode-0.12\kenkyu\mdl4\control.h
+	"variable.h"
+
+1486371917 c:\ode-0.12\kenkyu\mdl4\variable.h
+	<ode/ode.h>
+
+1486368482 c:\ode-0.12\kenkyu\mdl4\makebody.h
+	"variable.h"
+
